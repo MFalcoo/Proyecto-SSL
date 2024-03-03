@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.dot": "c",
+        "tabladesimbolos.h": "c",
+        "ast.h": "c",
+        "general.h": "c"
+    }
+}
